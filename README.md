@@ -9,7 +9,7 @@ Basic features included:
 - request signature;
 - basic params validation for each available operation request;
 - asynchronous HTTP requests handling;
-- return data as native scala.xml.Elem;
+- response data as native scala.xml.Elem;
 - simple API usage via "onSuccess" and "onFailure" callbacks;
 
 Todos:
@@ -48,7 +48,8 @@ Also some code samples are included in sources. You can find them main.scala.aws
 
 ## API Documentation
 
-Please refer to official [Amazon's documentation](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html)
+Please refer to official [Amazon's documentation](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) for available
+operations and request parameters.
 
 ## License
 
