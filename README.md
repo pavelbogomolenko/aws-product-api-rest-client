@@ -1,6 +1,6 @@
 # aws-product-api-rest-client - Scala client for the Amazon Product Advertising API.
 
-With this library you will be able you to access the Amazon Product Advertising REST API from Scala.
+With this API you will be able to access the Amazon Product Advertising REST API from Scala.
 It includes Request Signatures which can be a bit "boring" to implement on your own.
 Also it utilize [Dispatch](https://github.com/dispatch/reboot) library (Scala asynchronous HTTP library build
 on top of Java [async-http-client](https://github.com/AsyncHttpClient/async-http-client)).
